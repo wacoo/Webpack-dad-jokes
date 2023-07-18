@@ -1,0 +1,9 @@
+npm init -y
+npm i -D webpack webpack-cli
+- in packeges.json, in scripts add "build": "webpack --mode production"
+npm run build
+npm i -D sass style-loader, css-loader, sass-loader
+npm i -D html-webpack-plugin
+npm i -D webpack-dev-server
+npm i -D babel-loader @babel/core @babel/preset-env
+npm i  -D axios
