@@ -7,3 +7,4 @@ npm i -D html-webpack-plugin
 npm i -D webpack-dev-server
 npm i -D babel-loader @babel/core @babel/preset-env
 npm i  -D axios
+npm i -D webpack-bundle-analyzer
